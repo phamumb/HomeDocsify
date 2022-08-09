@@ -7,4 +7,4 @@
 > Home Lab Documentation
 
 [GitHub](https://github.com/phamumb/HomeDocsify)
-[Get Started](/markdown)
+[Get Started](/)
