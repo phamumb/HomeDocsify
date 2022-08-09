@@ -1,5 +1,6 @@
 - Plex Server
   - [Plex](plex-server/setup.md)
+  - [Swizzin](plex-server/swizzin.md)
 - RAID Array
   - [Create RAID Array](raid-array/create-raid-array.md)
   - [Add Spare to an Array](raid-array/add-device.md)
@@ -15,4 +16,3 @@
   - [Telegraf](monitor/telegraf.md)
 - Docker
   - [Installing Docker](docker/install-docker.md)
-- [Markdown](markdown.md)
