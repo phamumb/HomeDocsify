@@ -10,7 +10,6 @@
       content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
     />
 
-    <!-- Theme: Simple -->
     <!-- Theme: Defaults -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-defaults.css">
     <style>
@@ -43,10 +42,15 @@
         loadSidebar: true,
         loadNavbar: true,
         coverpage: true,
+        auto2top: true,
         subMaxLevel: 3,
         plugins: [
                 EditOnGithubPlugin.create(editPath, null, editMsg)
         ],
+        themeable: {
+          readyTransition: true, // default
+          responsiveTables: true // default
+        }
       }
     </script>
     <!-- Docsify v4 -->
