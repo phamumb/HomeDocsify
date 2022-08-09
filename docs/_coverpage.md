@@ -9,4 +9,4 @@
 - Setting up Hardware and Software for automation and monitoring
 
 [GitHub](https://github.com/phamumb/HomeDocsify)
-[Get Started](/home/cheatsheet)
+[Get Started](/markdown)
